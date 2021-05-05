@@ -1,0 +1,132 @@
+.carts {
+  margin-top: 40px;
+}
+.carts-imgs img {
+  width: 200px;
+  height: 280px;
+}
+.carts-imgs {
+  display: flex;
+  justify-content: space-between;
+}
+.agency img {
+  width: 50px;
+  height: 290px;
+  margin-left: 100px;
+}
+.phonex img {
+  width: 30px;
+  height: 200px;
+  margin-left: -15px;
+  margin-top: 20px;
+}
+.phonex {
+  position: absolute;
+  color: #ffffff;
+}
+.united {
+  position: absolute;
+}
+.united img {
+  width: 10px;
+  height: 110px;
+  margin-left: 20px;
+  margin-top: 20px;
+  box-sizing: border-box;
+}
+.sage {
+  position: absolute;
+  color: #ffffff;
+}
+.sage img {
+  width: 30px;
+  height: 120px;
+  margin-left: -15px;
+  margin-top: 20px;
+}
+.china {
+  position: absolute;
+}
+.china img {
+  width: 10px;
+  height: 55px;
+  margin-left: 20px;
+  margin-top: 20px;
+  box-sizing: border-box;
+}
+.rus {
+  position: absolute;
+}
+.rus img {
+  width: 9px;
+  height: 50px;
+  margin-left: 20px;
+  margin-top: 20px;
+  box-sizing: border-box;
+}
+.sova img {
+  width: 30px;
+  height: 120px;
+  margin-left: -15px;
+  margin-top: 20px;
+}
+.sova {
+  position: absolute;
+  color: #ffffff;
+}
+.jet img {
+  width: 30px;
+  height: 100px;
+  margin-left: -15px;
+  margin-top: 20px;
+}
+.jet {
+  position: absolute;
+  color: #ffffff;
+}
+.kore {
+  position: absolute;
+}
+.kore img {
+  width: 10px;
+  height: 100px;
+  margin-left: 20px;
+  margin-top: 20px;
+  box-sizing: border-box;
+}
+.podval-1 {
+  width: 200px;
+  height: 40px;
+  background: #1f2326;
+  border: 1px solid #f8f8f8;
+  margin-top: -30px;
+  margin-left: 10px;
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+}
+.podval-4 {
+  width: 200px;
+  height: 40px;
+  background: #ffffff;
+  border: 1px solid #f8f8f8;
+  margin-top: -30px;
+  margin-left: 10px;
+  display: flex;
+  justify-content: space-between;
+  position: absolute;
+}
+.podval-4 img {
+  width: 30px;
+  height: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 5px;
+}
+.podval-1 img {
+  width: 30px;
+  height: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 5px;
+}
